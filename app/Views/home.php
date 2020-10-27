@@ -1,11 +1,11 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Lab 06</title>
+		<title>DGPT4711 Assignment #1</title>
 	</head>
 	<body>
-		<h1>Travel Destinations</h1>
-		<p><a href="/travel">Show the destinations</a>.</p>
+		<h1>Complete Set Of Avengers Heroes</h1>
+		<p><a href="/travel">Heroes show</a>.</p>
 		<p><a href="/places">Show the places raw data</a></p>
 	</body>
 </html>
