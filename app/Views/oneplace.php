@@ -7,6 +7,10 @@
 		<h1>The hero's specific introduction</h1>
 		<p><strong>ID:</strong> {id}</p>
 		<p><strong>Name:</strong> {name}</p>
+                <p><strong>State:</strong> {state}</p>
+                <p><strong>Sex:</strong> {sex}</p>
+                <p><strong>Age:</strong> {age}</p>
+                <p><strong>Evaluate:</strong> {evaluate}</p>
 		<p><strong>Description:</strong> {description}</p>
 		<p><strong>Hero elegant demeanour:</strong> {link}</p>
 		<p><img src="/image/{image}"/></p>
